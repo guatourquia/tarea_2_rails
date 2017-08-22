@@ -1,0 +1,2 @@
+class Eduardo < ApplicationRecord
+end
